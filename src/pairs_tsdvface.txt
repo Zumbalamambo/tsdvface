@@ -1,0 +1,900 @@
+hoachnt	hoachnt_26	hoachnt_25
+duynd	duynd_1	duynd_12
+tungpx	tungpx_0	namdd	namdd_11
+manhpc	manhpc_4	manhpc_1
+binhnt	binhnt_15	binhnt_17
+quangdv	quangdv_8	quangdv_7
+thaihq	thaihq_29	thaihq_37
+other_5	other_5_13	other_5_23
+hoachnt	hoachnt_3	hoachnt_48
+tinhdx	tinhdx_3	namdd	namdd_15
+thanhbx	thanhbx_31	thanhbx_0
+damnk	damnk_37	damnk_19
+hangnt	hangnt_6	hangnt_11
+khoalh	khoalh_4	khoalh_0
+thaihq	thaihq_1	namdd	namdd_10
+lytt	lytt_10	lytt_13
+ducdt	ducdt_2	ducdt_22
+hoanvc	hoanvc_6	hoanvc_3
+lannv	lannv_13	lannv_4
+namdd	namdd_1	namdd_15
+tudv	tudv_7	tudv_8
+other_2	other_2_35	other_2_49
+hoachnt	hoachnt_29	hoachnt_29
+kientq	kientq_1	kientq_2
+duanth	duanth_16	duanth_10
+quannm	quannm_11	quannm_9
+tuanlm	tuanlm_6	tuanlm_12
+hoachnt	hoachnt_48	hoachnt_22
+datpt	datpt_32	datpt_57
+tungnd	tungnd_6	tungnd_2
+trungct	trungct_1	namdd	namdd_4
+quanng	quanng_12	quanng_7
+hungnv1	hungnv1_33	hungnv1_31
+damnk	damnk_28	damnk_36
+namdd	namdd_5	namdd	namdd_6
+tuyenhd	tuyenhd_3	tuyenhd_7
+dinhhv	dinhhv_0	dinhhv_7
+hadv	hadv_5	hadv_3
+damnk	damnk_25	damnk_35
+khoalh	khoalh_1	namdd	namdd_17
+binhnt	binhnt_10	binhnt_14
+namnt	namnt_67	namnt_15
+datpt	datpt_56	datpt_34
+dinhhv	dinhhv_6	dinhhv_7
+huongtt	huongtt_42	namdd	namdd_4
+ha_tapvu	ha_tapvu_12	ha_tapvu_1
+thanhbx	thanhbx_43	thanhbx_36
+ha_tapvu	ha_tapvu_17	ha_tapvu_16
+other_5	other_5_21	other_5_9
+ducdt	ducdt_13	ducdt_6
+hungnv1	hungnv1_46	hungnv1_25
+tranglth	tranglth_3	tranglth_3
+namdd	namdd_18	namdd_1
+hangnt	hangnt_38	hangnt_20
+duongnh	duongnh_33	namdd	namdd_0
+binhnt	binhnt_24	binhnt_23
+khoatv	khoatv_14	khoatv_26
+binhnt2	binhnt2_15	binhnt2_68
+namtc	namtc_0	namtc_1
+ha_tapvu	ha_tapvu_9	ha_tapvu_11
+anhbt	anhbt_34	anhbt_33
+anhbt	anhbt_10	anhbt_0
+truongvx	truongvx_35	truongvx_8
+tinhdx	tinhdx_0	tinhdx_6
+tungnd	tungnd_3	tungnd_0
+other_3	other_3_14	other_3_48
+other_5	other_5_21	other_5_17
+truongvx	truongvx_13	truongvx_3
+hangnt	hangnt_8	hangnt_30
+other_3	other_3_23	other_3_31
+hangnt	hangnt_26	hangnt_28
+hoaptt	hoaptt_63	hoaptt_65
+quyqv	quyqv_1	quyqv_3
+duongvtq	duongvtq_37	duongvtq_35
+thanhbx	thanhbx_54	thanhbx_35
+other_4	other_4_0	namdd	namdd_5
+khoatv	khoatv_20	khoatv_68
+hangnt	hangnt_28	hangnt_5
+manhpc	manhpc_6	manhpc_5
+thaihv	thaihv_2	namdd	namdd_15
+dinhhv	dinhhv_6	dinhhv_7
+other_1	other_1_16	other_1_11
+manhpc	manhpc_0	manhpc_5
+hungnv1	hungnv1_18	namdd	namdd_14
+hoanvc	hoanvc_15	hoanvc_34
+khoatv	khoatv_44	khoatv_52
+ngannt	ngannt_9	ngannt_52
+ngannt	ngannt_35	ngannt_41
+quangdv	quangdv_8	quangdv_8
+tuanlm	tuanlm_11	tuanlm_4
+khoatv	khoatv_29	khoatv_51
+other_3	other_3_33	namdd	namdd_7
+tuanlm	tuanlm_5	tuanlm_10
+other_2	other_2_2	other_2_48
+ducdt	ducdt_8	ducdt_10
+thaihv	thaihv_2	thaihv_2
+ha_tapvu	ha_tapvu_20	ha_tapvu_1
+tudv	tudv_45	tudv_33
+lytt	lytt_16	lytt_21
+chihq	chihq_27	chihq_6
+tranglth	tranglth_0	namdd	namdd_20
+kientq	kientq_3	kientq_1
+trungct	trungct_5	trungct_5
+quannm	quannm_30	quannm_35
+anhbt	anhbt_8	anhbt_38
+duongvtq	duongvtq_44	duongvtq_14
+namtc	namtc_2	namtc_2
+ngannt	ngannt_11	ngannt_21
+tudv	tudv_40	tudv_45
+tranglth	tranglth_1	tranglth_0
+other_5	other_5_20	namdd	namdd_19
+duanth	duanth_2	duanth_2
+dinhhv	dinhhv_2	dinhhv_4
+quangdv	quangdv_0	quangdv_3
+binhnt	binhnt_11	namdd	namdd_13
+lytt	lytt_20	lytt_26
+binhnt	binhnt_14	binhnt_10
+quannm	quannm_12	quannm_6
+namdd	namdd_0	namdd_0
+dinhhv	dinhhv_4	dinhhv_4
+thaihq	thaihq_23	thaihq_24
+hoaptt	hoaptt_35	hoaptt_41
+duynd	duynd_10	duynd_6
+datpt	datpt_1	datpt_9
+khoalh	khoalh_1	khoalh_2
+other_3	other_3_26	other_3_17
+manhpc	manhpc_6	manhpc_5
+thaihq	thaihq_36	namdd	namdd_20
+khoatv	khoatv_61	khoatv_26
+quyqv	quyqv_5	quyqv_1
+thanhpv	thanhpv_38	thanhpv_36
+namdd	namdd_8	namdd_5
+hoanvc	hoanvc_14	hoanvc_11
+thanhbx	thanhbx_13	thanhbx_46
+binhnt2	binhnt2_27	binhnt2_75
+truongvx	truongvx_39	truongvx_29
+khoatv	khoatv_26	khoatv_13
+quangdv	quangdv_1	quangdv_4
+hoachnt	hoachnt_23	hoachnt_14
+thanhpv	thanhpv_57	namdd	namdd_18
+hoanvc	hoanvc_21	namdd	namdd_5
+chihq	chihq_1	chihq_4
+other_1	other_1_12	other_1_8
+other_1	other_1_17	other_1_24
+hoaptt	hoaptt_8	hoaptt_41
+duongnh	duongnh_1	duongnh_27
+hoaptt	hoaptt_68	hoaptt_60
+trungct	trungct_6	trungct_3
+duongvtq	duongvtq_22	namdd	namdd_17
+cuongnv	cuongnv_0	cuongnv_1
+tuyenhd	tuyenhd_10	namdd	namdd_3
+thanhpv	thanhpv_28	thanhpv_26
+tuanlm	tuanlm_2	tuanlm_7
+tinhdx	tinhdx_2	tinhdx_2
+khoatv	khoatv_26	khoatv_47
+quyqv	quyqv_12	quyqv_10
+quangdv	quangdv_0	quangdv_6
+tungnd	tungnd_5	tungnd_7
+hangnt	hangnt_14	hangnt_10
+ngannt	ngannt_67	ngannt_25
+tudv	tudv_7	tudv_53
+thaihq	thaihq_24	thaihq_35
+other_4	other_4_9	other_4_9
+other_2	other_2_28	other_2_23
+thanhpv	thanhpv_16	thanhpv_0
+binhnt2	binhnt2_33	binhnt2_20
+hungnv1	hungnv1_45	hungnv1_62
+lannv	lannv_3	lannv_6
+tinhdx	tinhdx_9	namdd	namdd_19
+binhnt2	binhnt2_20	binhnt2_52
+duongnh	duongnh_4	duongnh_24
+duanth	duanth_16	duanth_3
+thanhpv	thanhpv_14	thanhpv_32
+tranglth	tranglth_2	tranglth_0
+trungct	trungct_3	trungct_6
+quanng	quanng_7	quanng_10
+hadv	hadv_1	hadv_0
+anhbt	anhbt_11	anhbt_15
+anhbt	anhbt_1	anhbt_55
+ha_tapvu	ha_tapvu_18	ha_tapvu_7
+quannm	quannm_30	quannm_27
+tudv	tudv_35	tudv_46
+thaihq	thaihq_37	thaihq_2
+anhbt	anhbt_3	anhbt_2
+dinhhv	dinhhv_5	dinhhv_7
+tungpx	tungpx_8	tungpx_0
+other_1	other_1_10	other_1_14
+khoalh	khoalh_2	khoalh_2
+hoachnt	hoachnt_50	hoachnt_1
+quannm	quannm_11	quannm_31
+thaihq	thaihq_37	thaihq_12
+quyqv	quyqv_8	quyqv_4
+huongtt	huongtt_2	namdd	namdd_9
+vietpc	vietpc_1	vietpc_2
+lytt	lytt_10	lytt_13
+binhnt	binhnt_23	binhnt_17
+thaihq	thaihq_35	thaihq_11
+cuongnv	cuongnv_0	cuongnv_2
+khoalh	khoalh_1	khoalh_4
+kientq	kientq_2	kientq_2
+tuyenhd	tuyenhd_14	tuyenhd_19
+tudv	tudv_8	tudv_4
+trungct	trungct_2	trungct_0
+dinhhv	dinhhv_2	dinhhv_2
+vietpc	vietpc_3	vietpc_8
+other_2	other_2_9	other_2_42
+duongvtq	duongvtq_18	duongvtq_14
+trungct	trungct_6	trungct_5
+tungnd	tungnd_5	tungnd_3
+quyqv	quyqv_11	quyqv_14
+quannm	quannm_20	quannm_27
+tungpx	tungpx_0	tungpx_0
+duanth	duanth_18	duanth_16
+damnk	damnk_25	damnk_16
+namtc	namtc_2	namtc_1
+hoanvc	hoanvc_7	hoanvc_2
+lannv	lannv_11	lannv_11
+khoatv	khoatv_61	khoatv_52
+duynd	duynd_9	duynd_6
+other_1	other_1_18	namdd	namdd_15
+other_3	other_3_7	other_3_20
+other_1	other_1_19	other_1_18
+other_2	other_2_52	other_2_28
+lytt	lytt_15	lytt_14
+cuongnv	cuongnv_2	cuongnv_2
+hungnv1	hungnv1_8	hungnv1_39
+hadv	hadv_5	hadv_4
+quanng	quanng_9	quanng_11
+huongtt	huongtt_23	huongtt_27
+namtc	namtc_2	namdd	namdd_7
+thanhpv	thanhpv_31	namdd	namdd_19
+chihq	chihq_22	chihq_1
+other_2	other_2_32	other_2_23
+other_4	other_4_3	other_4_19
+tranglth	tranglth_1	tranglth_2
+truongvx	truongvx_1	truongvx_5
+other_5	other_5_10	other_5_14
+other_4	other_4_0	other_4_16
+kientq	kientq_6	kientq_1
+hungnv1	hungnv1_25	namdd	namdd_8
+tinhdx	tinhdx_2	tinhdx_2
+vietpc	vietpc_3	vietpc_5
+khoalh	khoalh_2	khoalh_0
+quannm	quannm_28	quannm_18
+namnt	namnt_39	namnt_67
+other_3	other_3_42	other_3_11
+quannm	quannm_0	quannm_28
+ha_tapvu	ha_tapvu_6	ha_tapvu_11
+tungpx	tungpx_7	tungpx_3
+tungpx	tungpx_4	tungpx_0
+truongvx	truongvx_11	truongvx_14
+thaihv	thaihv_0	thaihv_1
+other_4	other_4_17	other_4_18
+duynd	duynd_3	duynd_12
+hoanvc	hoanvc_12	namdd	namdd_11
+thaihv	thaihv_0	thaihv_2
+namnt	namnt_3	namnt_41
+vietpc	vietpc_2	vietpc_8
+ngannt	ngannt_12	ngannt_40
+khoalh	khoalh_2	khoalh_3
+tinhdx	tinhdx_1	tinhdx_7
+tungnd	tungnd_0	tungnd_3
+hoachnt	hoachnt_25	hoachnt_19
+lannv	lannv_8	lannv_7
+duynd	duynd_7	duynd_6
+other_1	other_1_0	other_1_3
+thaihv	thaihv_3	thaihv_1
+hangnt	hangnt_19	hangnt_12
+thanhbx	thanhbx_36	thanhbx_41
+thanhbx	thanhbx_29	thanhbx_18
+duongvtq	duongvtq_50	duongvtq_14
+hangnt	hangnt_22	hangnt_20
+thanhpv	thanhpv_5	thanhpv_53
+tranglth	tranglth_1	tranglth_3
+quannm	quannm_12	quannm_20
+huongtt	huongtt_34	huongtt_25
+hoanvc	hoanvc_22	hoanvc_1
+ducdt	ducdt_3	ducdt_16
+hoachnt	hoachnt_17	namdd	namdd_10
+tungpx	tungpx_0	tungpx_6
+tungnd	tungnd_1	tungnd_2
+kientq	kientq_1	namdd	namdd_16
+other_2	other_2_4	other_2_24
+hoaptt	hoaptt_32	hoaptt_9
+duynd	duynd_11	namdd	namdd_17
+binhnt	binhnt_27	binhnt_20
+anhbt	anhbt_51	anhbt_28
+hoaptt	hoaptt_79	hoaptt_11
+other_4	other_4_13	other_4_13
+quangdv	quangdv_8	quangdv_0
+other_5	other_5_24	other_5_6
+vietpc	vietpc_7	vietpc_4
+tungpx	tungpx_4	tungpx_8
+ducdt	ducdt_10	ducdt_0
+hoachnt	hoachnt_25	hoachnt_48
+other_1	other_1_14	other_1_14
+other_5	other_5_12	other_5_12
+manhpc	manhpc_4	manhpc_3
+duanth	duanth_13	duanth_5
+vietpc	vietpc_5	vietpc_4
+namnt	namnt_43	namnt_30
+binhnt	binhnt_24	binhnt_4
+tuanlm	tuanlm_15	namdd	namdd_13
+other_4	other_4_15	other_4_3
+tuyenhd	tuyenhd_6	tuyenhd_6
+other_4	other_4_5	other_4_5
+dinhhv	dinhhv_2	dinhhv_0
+thaihv	thaihv_1	thaihv_2
+ducdt	ducdt_13	ducdt_7
+other_2	other_2_11	other_2_25
+hoaptt	hoaptt_77	hoaptt_43
+hangnt	hangnt_33	namdd	namdd_13
+other_2	other_2_19	other_2_31
+namnt	namnt_27	namnt_39
+datpt	datpt_32	datpt_24
+hangnt	hangnt_16	namdd	namdd_0
+damnk	damnk_10	damnk_3
+chihq	chihq_20	chihq_7
+datpt	datpt_33	namdd	namdd_15
+quyqv	quyqv_12	quyqv_12
+hoanvc	hoanvc_12	hoanvc_29
+tungnd	tungnd_1	tungnd_6
+thanhbx	thanhbx_34	thanhbx_52
+tuyenhd	tuyenhd_13	tuyenhd_21
+chihq	chihq_16	chihq_29
+quannm	quannm_28	namdd	namdd_16
+namdd	namdd_10	namdd_12
+lannv	lannv_17	lannv_16
+datpt	datpt_45	datpt_19
+namnt	namnt_35	namnt_38
+thanhbx	thanhbx_41	thanhbx_5
+kientq	kientq_6	kientq_4
+lannv	lannv_1	namdd	namdd_16
+duanth	duanth_10	duanth_19
+ha_tapvu	ha_tapvu_4	namdd	namdd_20
+dinhhv	dinhhv_4	namdd	namdd_1
+kientq	kientq_6	kientq_5
+duongnh	duongnh_8	duongnh_52
+tungnd	tungnd_3	tungnd_6
+namdd	namdd_10	namdd_13
+tinhdx	tinhdx_6	tinhdx_0
+tungpx	tungpx_0	tungpx_4
+quangdv	quangdv_6	namdd	namdd_20
+hadv	hadv_4	hadv_0
+thanhbx	thanhbx_65	namdd	namdd_18
+khoatv	khoatv_1	namdd	namdd_8
+tungpx	tungpx_7	tungpx_8
+tudv	tudv_32	tudv_8
+dinhhv	dinhhv_3	dinhhv_3
+tungnd	tungnd_5	tungnd_1
+namdd	namdd_19	namdd	namdd_14
+damnk	damnk_41	damnk_29
+tranglth	tranglth_3	tranglth_0
+tudv	tudv_35	tudv_34
+manhpc	manhpc_3	manhpc_0
+other_3	other_3_41	other_3_16
+thaihv	thaihv_0	thaihv_3
+damnk	damnk_5	damnk_7
+duongnh	duongnh_17	duongnh_48
+duongvtq	duongvtq_14	duongvtq_61
+namtc	namtc_1	namtc_1
+duynd	duynd_12	duynd_2
+lannv	lannv_9	lannv_5
+ngannt	ngannt_55	ngannt_19
+tuyenhd	tuyenhd_15	tuyenhd_3
+hangnt	hangnt_36	hangnt_29
+vietpc	vietpc_8	vietpc_2
+other_5	other_5_8	other_5_24
+ducdt	ducdt_11	ducdt_8
+binhnt2	binhnt2_4	binhnt2_59
+manhpc	manhpc_0	manhpc_1
+truongvx	truongvx_9	truongvx_15
+other_1	other_1_12	other_1_1
+lytt	lytt_2	namdd	namdd_17
+duanth	duanth_9	duanth_5
+tudv	tudv_2	namdd	namdd_5
+duongvtq	duongvtq_21	duongvtq_52
+duongnh	duongnh_32	namdd	namdd_7
+other_3	other_3_37	other_3_7
+hoachnt	hoachnt_17	hoachnt_8
+thaihv	thaihv_0	thaihv_1
+binhnt2	binhnt2_32	binhnt2_49
+quanng	quanng_11	namdd	namdd_17
+thanhbx	thanhbx_64	namdd	namdd_9
+namnt	namnt_81	namdd	namdd_2
+hungnv1	hungnv1_23	hungnv1_0
+duongnh	duongnh_41	duongnh_25
+tuanlm	tuanlm_15	tuanlm_9
+namtc	namtc_1	namtc_0
+khoatv	khoatv_21	khoatv_22
+thanhbx	thanhbx_59	thanhbx_3
+huongtt	huongtt_46	huongtt_47
+other_3	other_3_5	other_3_39
+duongnh	duongnh_53	duongnh_12
+tranglth	tranglth_1	namdd	namdd_17
+hoachnt	hoachnt_56	hoachnt_12
+thaihq	thaihq_38	thaihq_39
+khoalh	khoalh_0	namdd	namdd_19
+trungct	trungct_3	trungct_2
+tranglth	tranglth_0	tranglth_0
+other_4	other_4_7	other_4_5
+hoachnt	hoachnt_44	hoachnt_21
+tuyenhd	tuyenhd_6	tuyenhd_3
+manhpc	manhpc_3	manhpc_6
+thanhbx	thanhbx_8	thanhbx_13
+ducdt	ducdt_2	ducdt_3
+duanth	duanth_1	namdd	namdd_15
+ducdt	ducdt_23	namdd	namdd_1
+duongvtq	duongvtq_21	duongvtq_12
+thaihv	thaihv_3	thaihv_3
+thaihq	thaihq_14	thaihq_10
+damnk	damnk_8	damnk_38
+truongvx	truongvx_7	truongvx_13
+other_2	other_2_57	other_2_45
+binhnt2	binhnt2_76	binhnt2_73
+lannv	lannv_4	namdd	namdd_17
+truongvx	truongvx_26	namdd	namdd_13
+binhnt	binhnt_4	binhnt_16
+hoaptt	hoaptt_61	hoaptt_5
+datpt	datpt_5	datpt_4
+tuanlm	tuanlm_10	tuanlm_9
+quyqv	quyqv_4	quyqv_4
+duynd	duynd_14	duynd_11
+ngannt	ngannt_12	namdd	namdd_19
+vietpc	vietpc_1	namdd	namdd_6
+lannv	lannv_15	lannv_7
+other_2	other_2_57	other_2_1
+thaihq	thaihq_30	thaihq_23
+tranglth	tranglth_1	tranglth_2
+namdd	namdd_11	namdd_7
+tuyenhd	tuyenhd_3	tuyenhd_0
+duanth	duanth_5	duanth_11
+binhnt	binhnt_10	binhnt_17
+tungpx	tungpx_7	tungpx_7
+tinhdx	tinhdx_0	tinhdx_8
+thaihv	thaihv_1	namdd	namdd_13
+cuongnv	cuongnv_2	cuongnv_1
+other_1	other_1_17	other_1_28
+binhnt2	binhnt2_17	namdd	namdd_0
+huongtt	huongtt_34	huongtt_25
+tuyenhd	tuyenhd_4	namdd	namdd_0
+ha_tapvu	ha_tapvu_6	ha_tapvu_3
+namdd	namdd_6	namdd_10
+anhbt	anhbt_26	namdd	namdd_3
+other_1	other_1_25	other_1_27
+namnt	namnt_6	namnt_46
+tinhdx	tinhdx_5	tinhdx_8
+vietpc	vietpc_5	vietpc_0
+binhnt	binhnt_0	binhnt_3
+ducdt	ducdt_1	ducdt_7
+lannv	lannv_11	lannv_15
+hadv	hadv_0	hadv_3
+khoalh	khoalh_3	khoalh_3
+dinhhv	dinhhv_3	dinhhv_5
+anhbt	anhbt_40	anhbt_43
+datpt	datpt_57	namdd	namdd_4
+damnk	damnk_5	damnk_29
+quyqv	quyqv_1	quyqv_0
+namtc	namtc_2	namtc_2
+quyqv	quyqv_13	quyqv_2
+lannv	lannv_1	lannv_0
+manhpc	manhpc_1	manhpc_3
+other_3	other_3_36	namdd	namdd_10
+hoaptt	hoaptt_56	hoaptt_45
+hungnv1	hungnv1_22	hungnv1_46
+namnt	namnt_16	namnt_27
+damnk	damnk_27	namdd	namdd_2
+hoanvc	hoanvc_12	hoanvc_18
+manhpc	manhpc_5	manhpc_5
+cuongnv	cuongnv_2	namdd	namdd_16
+namnt	namnt_76	namdd	namdd_13
+hadv	hadv_1	hadv_2
+quanng	quanng_6	quanng_12
+thanhpv	thanhpv_52	thanhpv_41
+duongvtq	duongvtq_18	duongvtq_41
+hoaptt	hoaptt_77	hoaptt_43
+tinhdx	tinhdx_9	tinhdx_2
+datpt	datpt_39	datpt_6
+khoatv	khoatv_22	khoatv_43
+thanhbx	thanhbx_20	thanhbx_36
+other_4	other_4_7	other_4_18
+other_1	other_1_9	other_1_6
+thanhpv	thanhpv_4	thanhpv_50
+hadv	hadv_2	hadv_3
+kientq	kientq_6	kientq_3
+khoalh	khoalh_1	khoalh_2
+other_5	other_5_11	namdd	namdd_17
+kientq	kientq_5	kientq_3
+other_4	other_4_1	other_4_18
+anhbt	anhbt_30	anhbt_6
+ha_tapvu	ha_tapvu_14	ha_tapvu_16
+huongtt	huongtt_43	huongtt_35
+truongvx	truongvx_24	truongvx_0
+ducdt	ducdt_15	ducdt_4
+thaihv	thaihv_2	thaihv_0
+namdd	namdd_13	namdd_13
+trungct	trungct_1	trungct_4
+tuyenhd	tuyenhd_19	tuyenhd_12
+khoatv	khoatv_57	namdd	namdd_17
+thaihq	thaihq_9	thaihq_30
+namtc	namtc_1	namtc_2
+truongvx	truongvx_18	truongvx_26
+hangnt	hangnt_24	hangnt_3
+namnt	namnt_27	namnt_2
+datpt	datpt_39	datpt_7
+hoanvc	hoanvc_29	hoanvc_33
+thaihv	thaihv_1	thaihv_2
+huongtt	huongtt_10	huongtt_29
+tudv	tudv_23	namdd	namdd_10
+quangdv	quangdv_8	quangdv_7
+namdd	namdd_13	namdd_20
+lytt	lytt_33	lytt_22
+binhnt	binhnt_25	binhnt_4
+trungct	trungct_0	trungct_3
+datpt	datpt_9	datpt_36
+tranglth	tranglth_2	tranglth_1
+quannm	quannm_27	quannm_14
+khoatv	khoatv_43	khoatv_35
+tungnd	tungnd_7	tungnd_0
+quanng	quanng_3	quanng_5
+duongnh	duongnh_30	duongnh_11
+vietpc	vietpc_2	namdd	namdd_3
+quangdv	quangdv_7	quangdv_6
+duynd	duynd_8	duynd_14
+cuongnv	cuongnv_2	namdd	namdd_3
+other_5	other_5_23	other_5_22
+other_5	other_5_9	other_5_22
+chihq	chihq_12	chihq_36
+quanng	quanng_3	quanng_5
+kientq	kientq_6	kientq_6
+tungpx	tungpx_6	tungpx_4
+namnt	namnt_9	namnt_56
+thanhbx	thanhbx_24	thanhbx_12
+trungct	trungct_2	namdd	namdd_14
+tranglth	tranglth_0	tranglth_3
+tuyenhd	tuyenhd_11	tuyenhd_0
+hoachnt	hoachnt_33	hoachnt_2
+anhbt	anhbt_11	anhbt_40
+hangnt	hangnt_30	hangnt_40
+dinhhv	dinhhv_0	dinhhv_0
+other_1	other_1_13	other_1_2
+cuongnv	cuongnv_2	cuongnv_0
+cuongnv	cuongnv_2	cuongnv_1
+thanhbx	thanhbx_23	thanhbx_61
+ngannt	ngannt_15	ngannt_38
+ha_tapvu	ha_tapvu_14	ha_tapvu_20
+huongtt	huongtt_54	huongtt_52
+duongnh	duongnh_39	duongnh_49
+hungnv1	hungnv1_33	hungnv1_0
+tuanlm	tuanlm_1	tuanlm_4
+tranglth	tranglth_1	tranglth_2
+namnt	namnt_43	namnt_0
+trungct	trungct_5	trungct_3
+thanhpv	thanhpv_4	thanhpv_39
+tranglth	tranglth_3	tranglth_2
+duanth	duanth_16	duanth_14
+quanng	quanng_3	quanng_1
+tuyenhd	tuyenhd_1	tuyenhd_15
+anhbt	anhbt_45	anhbt_24
+lannv	lannv_17	lannv_5
+duongvtq	duongvtq_3	duongvtq_40
+ngannt	ngannt_23	ngannt_13
+hadv	hadv_0	hadv_1
+quyqv	quyqv_3	namdd	namdd_20
+thaihv	thaihv_3	thaihv_2
+binhnt2	binhnt2_7	binhnt2_74
+quyqv	quyqv_10	quyqv_5
+lannv	lannv_13	lannv_13
+thanhbx	thanhbx_1	thanhbx_15
+truongvx	truongvx_30	truongvx_14
+hoaptt	hoaptt_0	namdd	namdd_5
+quanng	quanng_5	quanng_7
+ducdt	ducdt_14	ducdt_11
+kientq	kientq_1	kientq_2
+duongvtq	duongvtq_57	duongvtq_17
+ngannt	ngannt_25	ngannt_28
+truongvx	truongvx_17	truongvx_22
+namdd	namdd_8	namdd_14
+quanng	quanng_6	quanng_4
+vietpc	vietpc_0	vietpc_3
+namdd	namdd_19	namdd_5
+thanhpv	thanhpv_3	thanhpv_34
+quannm	quannm_0	quannm_0
+huongtt	huongtt_48	huongtt_31
+lytt	lytt_8	lytt_1
+ha_tapvu	ha_tapvu_3	ha_tapvu_19
+thanhpv	thanhpv_55	thanhpv_7
+huongtt	huongtt_4	huongtt_49
+datpt	datpt_15	datpt_19
+tungpx	tungpx_1	tungpx_8
+duynd	duynd_2	duynd_11
+other_5	other_5_9	other_5_10
+chihq	chihq_15	chihq_22
+quangdv	quangdv_5	quangdv_7
+tungpx	tungpx_7	tungpx_4
+hoanvc	hoanvc_5	hoanvc_21
+other_3	other_3_17	other_3_32
+trungct	trungct_5	trungct_2
+quangdv	quangdv_0	namdd	namdd_17
+khoatv	khoatv_19	khoatv_11
+damnk	damnk_25	damnk_20
+thaihq	thaihq_17	thaihq_35
+cuongnv	cuongnv_0	cuongnv_0
+duongnh	duongnh_29	duongnh_0
+tuanlm	tuanlm_14	tuanlm_6
+tungnd	tungnd_6	tungnd_3
+other_2	other_2_6	other_2_42
+other_1	other_1_25	other_1_27
+duanth	duanth_17	duanth_13
+ducdt	ducdt_4	ducdt_23
+manhpc	manhpc_6	manhpc_4
+binhnt2	binhnt2_53	binhnt2_15
+other_4	other_4_9	other_4_17
+other_5	other_5_13	other_5_0
+hadv	hadv_3	hadv_5
+other_4	other_4_5	other_4_3
+damnk	damnk_42	damnk_39
+duynd	duynd_9	duynd_14
+khoalh	khoalh_1	khoalh_1
+quyqv	quyqv_8	quyqv_11
+other_5	other_5_8	other_5_5
+ngannt	ngannt_26	ngannt_49
+lytt	lytt_7	lytt_10
+other_3	other_3_13	other_3_23
+namtc	namtc_2	namtc_2
+lytt	lytt_35	lytt_19
+tudv	tudv_3	tudv_4
+duanth	duanth_7	duanth_12
+namtc	namtc_1	namdd	namdd_10
+duongnh	duongnh_44	duongnh_10
+namtc	namtc_1	namtc_0
+anhbt	anhbt_21	anhbt_22
+trungct	trungct_1	trungct_3
+binhnt2	binhnt2_27	binhnt2_34
+thaihv	thaihv_1	thaihv_1
+damnk	damnk_33	damnk_22
+khoalh	khoalh_1	khoalh_1
+chihq	chihq_33	chihq_36
+quyqv	quyqv_4	quyqv_12
+hoaptt	hoaptt_26	namdd	namdd_17
+cuongnv	cuongnv_2	cuongnv_2
+binhnt2	binhnt2_60	binhnt2_20
+tungpx	tungpx_5	tungpx_1
+quyqv	quyqv_4	namdd	namdd_6
+other_5	other_5_13	other_5_2
+quannm	quannm_18	quannm_30
+other_1	other_1_16	other_1_30
+hangnt	hangnt_27	hangnt_23
+tudv	tudv_43	tudv_33
+namtc	namtc_1	namtc_2
+other_1	other_1_2	other_1_16
+namnt	namnt_27	namnt_0
+dinhhv	dinhhv_1	namdd	namdd_10
+tinhdx	tinhdx_2	tinhdx_6
+ducdt	ducdt_4	namdd	namdd_2
+hoachnt	hoachnt_75	hoachnt_15
+hangnt	hangnt_5	hangnt_41
+vietpc	vietpc_2	vietpc_1
+thanhpv	thanhpv_40	thanhpv_30
+huongtt	huongtt_21	huongtt_33
+other_3	other_3_31	other_3_0
+hungnv1	hungnv1_32	hungnv1_1
+quanng	quanng_2	quanng_5
+quyqv	quyqv_2	quyqv_3
+hoaptt	hoaptt_23	hoaptt_64
+lannv	lannv_14	lannv_8
+khoalh	khoalh_4	khoalh_4
+hoanvc	hoanvc_8	hoanvc_0
+huongtt	huongtt_4	huongtt_45
+khoatv	khoatv_11	khoatv_51
+tuanlm	tuanlm_12	tuanlm_10
+cuongnv	cuongnv_1	cuongnv_0
+datpt	datpt_20	datpt_7
+quangdv	quangdv_4	quangdv_2
+duongvtq	duongvtq_38	duongvtq_50
+thaihq	thaihq_9	thaihq_25
+quanng	quanng_6	quanng_1
+tudv	tudv_35	tudv_50
+khoalh	khoalh_2	khoalh_0
+duynd	duynd_11	duynd_7
+duongvtq	duongvtq_0	duongvtq_10
+quangdv	quangdv_8	quangdv_8
+namtc	namtc_1	namtc_0
+lannv	lannv_12	lannv_9
+quannm	quannm_9	namdd	namdd_15
+tranglth	tranglth_2	tranglth_0
+duynd	duynd_8	duynd_8
+quangdv	quangdv_3	quangdv_7
+binhnt	binhnt_8	binhnt_12
+quyqv	quyqv_12	quyqv_11
+tungnd	tungnd_7	tungnd_5
+tuanlm	tuanlm_14	namdd	namdd_8
+thaihq	thaihq_18	thaihq_28
+namtc	namtc_0	namtc_1
+chihq	chihq_17	chihq_17
+other_4	other_4_14	other_4_12
+lytt	lytt_25	lytt_22
+tuyenhd	tuyenhd_20	tuyenhd_14
+manhpc	manhpc_4	namdd	namdd_4
+quannm	quannm_12	quannm_8
+other_4	other_4_0	namdd	namdd_12
+kientq	kientq_7	kientq_1
+anhbt	anhbt_8	anhbt_38
+quannm	quannm_13	quannm_35
+khoatv	khoatv_18	khoatv_50
+hadv	hadv_2	hadv_4
+binhnt	binhnt_5	binhnt_26
+thanhpv	thanhpv_1	thanhpv_51
+hoaptt	hoaptt_38	hoaptt_76
+kientq	kientq_2	kientq_3
+thanhpv	thanhpv_2	thanhpv_15
+hadv	hadv_5	hadv_0
+ha_tapvu	ha_tapvu_1	ha_tapvu_4
+tudv	tudv_50	tudv_3
+truongvx	truongvx_7	truongvx_15
+ngannt	ngannt_25	namdd	namdd_5
+hangnt	hangnt_35	hangnt_28
+binhnt	binhnt_30	binhnt_20
+ha_tapvu	ha_tapvu_12	ha_tapvu_12
+hoaptt	hoaptt_77	hoaptt_30
+damnk	damnk_43	namdd	namdd_15
+hadv	hadv_2	hadv_5
+damnk	damnk_27	damnk_9
+ducdt	ducdt_6	ducdt_15
+chihq	chihq_16	namdd	namdd_14
+duongnh	duongnh_38	duongnh_33
+cuongnv	cuongnv_2	cuongnv_1
+tuyenhd	tuyenhd_12	tuyenhd_16
+quyqv	quyqv_4	quyqv_14
+duanth	duanth_2	duanth_3
+ngannt	ngannt_66	ngannt_61
+other_2	other_2_26	other_2_23
+hungnv1	hungnv1_43	hungnv1_21
+duynd	duynd_6	duynd_0
+duanth	duanth_14	duanth_5
+trungct	trungct_3	trungct_6
+chihq	chihq_26	chihq_28
+hungnv1	hungnv1_25	hungnv1_62
+cuongnv	cuongnv_1	cuongnv_0
+thaihq	thaihq_0	thaihq_28
+duynd	duynd_1	duynd_11
+khoalh	khoalh_1	khoalh_1
+duynd	duynd_0	duynd_5
+huongtt	huongtt_18	huongtt_29
+tungnd	tungnd_4	tungnd_7
+kientq	kientq_5	namdd	namdd_18
+vietpc	vietpc_5	vietpc_2
+other_2	other_2_27	other_2_45
+kientq	kientq_7	kientq_3
+tudv	tudv_29	tudv_51
+other_3	other_3_17	other_3_4
+other_1	other_1_26	namdd	namdd_8
+tungnd	tungnd_1	tungnd_6
+namdd	namdd_5	namdd_9
+quangdv	quangdv_3	quangdv_7
+duongvtq	duongvtq_44	duongvtq_55
+chihq	chihq_9	namdd	namdd_8
+hoaptt	hoaptt_25	hoaptt_69
+quannm	quannm_4	quannm_1
+khoatv	khoatv_15	khoatv_5
+ducdt	ducdt_6	ducdt_22
+tuanlm	tuanlm_4	tuanlm_9
+tuanlm	tuanlm_14	tuanlm_13
+vietpc	vietpc_7	vietpc_2
+trungct	trungct_2	trungct_4
+quanng	quanng_5	quanng_11
+damnk	damnk_3	damnk_25
+huongtt	huongtt_5	huongtt_19
+tuyenhd	tuyenhd_20	tuyenhd_22
+cuongnv	cuongnv_0	cuongnv_0
+tinhdx	tinhdx_0	tinhdx_4
+lytt	lytt_28	lytt_7
+tinhdx	tinhdx_8	tinhdx_1
+other_2	other_2_51	namdd	namdd_14
+tuanlm	tuanlm_9	tuanlm_9
+datpt	datpt_59	datpt_1
+dinhhv	dinhhv_5	dinhhv_3
+other_3	other_3_4	other_3_39
+namnt	namnt_51	namnt_37
+hungnv1	hungnv1_46	hungnv1_9
+tinhdx	tinhdx_9	tinhdx_1
+hadv	hadv_4	hadv_4
+duongnh	duongnh_37	duongnh_45
+binhnt	binhnt_6	binhnt_11
+thaihv	thaihv_1	thaihv_0
+truongvx	truongvx_13	namdd	namdd_7
+namdd	namdd_1	namdd_11
+lytt	lytt_25	lytt_29
+hoaptt	hoaptt_52	hoaptt_30
+khoalh	khoalh_2	khoalh_0
+ngannt	ngannt_17	ngannt_50
+chihq	chihq_24	chihq_19
+hadv	hadv_4	namdd	namdd_19
+tuanlm	tuanlm_12	tuanlm_15
+binhnt2	binhnt2_51	namdd	namdd_17
+hoanvc	hoanvc_20	hoanvc_34
+duongvtq	duongvtq_16	duongvtq_30
+quanng	quanng_7	quanng_10
+tuyenhd	tuyenhd_21	tuyenhd_6
+hadv	hadv_5	hadv_4
+hoanvc	hoanvc_19	hoanvc_21
+manhpc	manhpc_3	manhpc_1
+manhpc	manhpc_2	manhpc_4
+hoachnt	hoachnt_41	hoachnt_29
+thaihv	thaihv_0	thaihv_1
+hungnv1	hungnv1_4	hungnv1_13
+tranglth	tranglth_1	tranglth_2
+thanhpv	thanhpv_31	thanhpv_4
+manhpc	manhpc_6	manhpc_5
+lannv	lannv_6	lannv_0
+cuongnv	cuongnv_0	cuongnv_1
+trungct	trungct_0	trungct_4
+ngannt	ngannt_66	ngannt_35
+tuanlm	tuanlm_2	tuanlm_7
+datpt	datpt_1	datpt_9
+hoanvc	hoanvc_28	hoanvc_0
+duanth	duanth_14	duanth_1
+tungpx	tungpx_5	namdd	namdd_5
+chihq	chihq_11	chihq_26
+vietpc	vietpc_7	vietpc_1
+other_5	other_5_20	other_5_21
+thaihv	thaihv_1	thaihv_0
+hungnv1	hungnv1_51	hungnv1_35
+tranglth	tranglth_2	tranglth_0
+duongvtq	duongvtq_2	duongvtq_44
+ha_tapvu	ha_tapvu_17	ha_tapvu_5
+lannv	lannv_12	lannv_5
+manhpc	manhpc_5	manhpc_5
+hadv	hadv_5	hadv_1
+trungct	trungct_0	trungct_0
+thanhpv	thanhpv_57	thanhpv_37
+dinhhv	dinhhv_0	dinhhv_5
+tinhdx	tinhdx_9	tinhdx_5
+duongvtq	duongvtq_26	namdd	namdd_16
+ngannt	ngannt_24	ngannt_24
+tungnd	tungnd_0	namdd	namdd_17
+anhbt	anhbt_20	namdd	namdd_15
+hoanvc	hoanvc_14	hoanvc_9
+vietpc	vietpc_4	vietpc_8
+chihq	chihq_33	chihq_10
+namtc	namtc_0	namtc_2
+truongvx	truongvx_32	truongvx_25
+namnt	namnt_76	namnt_43
+khoalh	khoalh_4	khoalh_1
+hoachnt	hoachnt_74	hoachnt_14
+duongnh	duongnh_25	duongnh_37
+dinhhv	dinhhv_4	dinhhv_6
+lytt	lytt_31	lytt_33
+quanng	quanng_6	quanng_12
+anhbt	anhbt_7	anhbt_53
+thanhbx	thanhbx_61	thanhbx_9
+other_4	other_4_17	other_4_17
+damnk	damnk_19	damnk_38
+vietpc	vietpc_3	vietpc_2
+huongtt	huongtt_57	huongtt_10
+duynd	duynd_14	namdd	namdd_1
+ha_tapvu	ha_tapvu_8	namdd	namdd_12
+tungpx	tungpx_2	tungpx_7
+tuyenhd	tuyenhd_2	tuyenhd_5
+tinhdx	tinhdx_7	tinhdx_1
+tungpx	tungpx_8	tungpx_0
+ha_tapvu	ha_tapvu_13	ha_tapvu_11
+truongvx	truongvx_15	truongvx_3
+other_2	other_2_52	other_2_4
+hangnt	hangnt_0	hangnt_24
+ducdt	ducdt_14	ducdt_11
+other_3	other_3_8	other_3_41
+namtc	namtc_1	namtc_0
+datpt	datpt_46	datpt_13
+hungnv1	hungnv1_0	hungnv1_30
+quanng	quanng_11	quanng_1
+hoanvc	hoanvc_2	hoanvc_30
+tungnd	tungnd_0	tungnd_1
+lytt	lytt_16	lytt_16
+quangdv	quangdv_8	quangdv_6
+manhpc	manhpc_5	namdd	namdd_2
+lytt	lytt_24	namdd	namdd_10
+other_3	other_3_39	other_3_41
+ngannt	ngannt_66	ngannt_21
+tudv	tudv_27	tudv_23
+kientq	kientq_2	kientq_1
+binhnt2	binhnt2_32	binhnt2_21
+hoachnt	hoachnt_31	namdd	namdd_16
+namdd	namdd_6	namdd_5
+chihq	chihq_33	chihq_26
+namnt	namnt_76	namnt_4
+duongnh	duongnh_30	duongnh_47
+thaihq	thaihq_11	thaihq_31
+quanng	quanng_7	namdd	namdd_13
+kientq	kientq_2	kientq_1
+dinhhv	dinhhv_0	dinhhv_0
+quangdv	quangdv_5	quangdv_4
+duongnh	duongnh_29	duongnh_6
+tungnd	tungnd_5	namdd	namdd_14
+other_5	other_5_7	other_5_5
+tudv	tudv_15	tudv_26
+huongtt	huongtt_13	huongtt_51
+namtc	namtc_0	namtc_0
+duanth	duanth_12	namdd	namdd_12
+truongvx	truongvx_28	truongvx_36
